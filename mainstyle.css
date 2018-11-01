@@ -50,7 +50,7 @@ a:hover i {
   transition: 0.5s ease;
 }
 
-@media (max-width: 1150px) {
+@media (max-width: 1670px) {
   body {
     background-attachment: fixed;
     background-position: center;
